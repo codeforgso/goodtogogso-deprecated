@@ -1,0 +1,28 @@
+$icon-font-path: '../fonts/';
+
+// bower:scss
+@import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+// endbower
+
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+a:hover {
+ cursor:pointer;
+}
+
+.logo {
+  width: 200px;
+}
+
+#voter-name-input {
+  margin: 5px;
+}
+
+#select-voter {
+  list-style: none;
+  // text-align: center;
+}
