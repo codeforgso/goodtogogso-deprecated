@@ -30,7 +30,7 @@ require([
 
   var template = {
     title: "Council District: {DISTRICT}",
-    content: "<p>Council Member: <b>{MEMBER}</b></p> + </br> <p>Test: <a href='{HYPERLINK}' traget='_blank'>{HYPERLINK}</a></p>"
+    content: "<p>Council Member: <b>{MEMBER}</b></p> + </br> <p>Test: <a href='{HYPERLINK}' target='_blank'>{HYPERLINK}</a></p>"
 
   };
 
