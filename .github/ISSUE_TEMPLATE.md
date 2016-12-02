@@ -2,7 +2,7 @@
 ## This is a (check all that apply):
 * [ ] bug
 * [ ] enhancement
-* [ ] feature-discussion (RFC)
+* [ ] feature-discussion
 
 <!--- Provide a general summary of the issue in the Title above -->
 
