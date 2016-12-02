@@ -1,4 +1,9 @@
 
+## This is a (check all that apply):
+* [x] bug
+* [ ] enhancement
+* [ ] feature-discussion (RFC)
+
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Expected Behavior
