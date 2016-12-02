@@ -1,6 +1,6 @@
 
 ## This is a (check all that apply):
-* [x] bug
+* [ ] bug
 * [ ] enhancement
 * [ ] feature-discussion (RFC)
 
