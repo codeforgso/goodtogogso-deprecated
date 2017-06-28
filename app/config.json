@@ -1,0 +1,171 @@
+{
+  "representatives": {
+    "City_Council": {
+      "Mayor": {
+        "name": "Nancy Vaughan",
+        "email": "Nancy.Vaughan@greensboro-nc.gov",
+        "phone": "(336) 373-2396",
+        "district": "Mayor",
+        "website": "http://www.greensboro-nc.gov/index.aspx?page=106",
+        "twitter": "@VaughanNancy",
+        "facebook": "https://www.facebook.com/nancy.vaughan",
+        "linkedin": "https://www.linkedin.com/in/nancy-vaughan-8a788911"
+      },
+      "At_Large_1": {
+        "name": "Yvonne Johnson",
+        "email": "",
+        "phone": "(336) 255-3060",
+        "district": "At Large",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "At_Large_2": {
+        "name": "Marikay Abuzuaiter",
+        "email": "",
+        "phone": "(336) 314-9620",
+        "district": "At Large",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "At_Large_3": {
+        "name": "Mike Barber",
+        "email": "",
+        "phone": "(336) 580-4241",
+        "district": "At Large",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_1": {
+        "name": "Sharon Hightower",
+        "email": "",
+        "phone": "(336) 317-4953 ",
+        "district": "1",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_2": {
+        "name": "Jamal Fox",
+        "email": "",
+        "phone": "(336) 317-4590",
+        "district": "2",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_3": {
+        "name": "Justin Outling",
+        "email": "",
+        "phone": "(336) 430-8336",
+        "district": "3",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_4": {
+        "name": "Nancy Hoffmann",
+        "email": "",
+        "phone": "(336) 255-1306",
+        "district": "4",
+        "website": "http://www.greensboro-nc.gov/index.aspx?page=105",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_5": {
+        "name": "Tony Wilkins",
+        "email": "",
+        "phone": "(336) 339-0296",
+        "district": "5",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      }
+    },
+    "County_Commissioners": {
+      "At_Large_1": {
+        "name": "Katie 'Kay' S. Cashion",
+        "email": "kcashion@myguilford.com",
+        "phone": "(336) 274-6272",
+        "district": "At Large",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_1": {
+        "name": "J. Carlvena Foster",
+        "email": "cfoster@myguilford.com",
+        "phone": "(336) 365-0692",
+        "district": "1",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_2": {
+        "name": "Alan Perdue",
+        "email": "aperdue@myguilford.com",
+        "phone": "(336) 451-6707",
+        "district": "2",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_3": {
+        "name": "Justin Conrad",
+        "email": "jconrad@myguilford.com",
+        "phone": "(336) 641-7717",
+        "district": "3",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_4": {
+        "name": "Alan Branson",
+        "email": "abranson@myguilford.com",
+        "phone": "(336) 451-7169",
+        "district": "4",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_5": {
+        "name": "Jeff Phillips",
+        "email": "jphillips@myguilford.com",
+        "phone": "(336) 337-2955",
+        "district": "5",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_6": {
+        "name": "Hank Henning",
+        "email": "hhenning@myguilford.com",
+        "phone": "(336) 708-9522",
+        "district": "6",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_7": {
+        "name": "Carolyn Q. Coleman",
+        "email": "ccoleman@myguilford.com",
+        "phone": "(336) 641-7670",
+        "district": "7",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+      "District_8": {
+        "name": "Ray Trapp",
+        "email": "rtrapp@myguilford.com",
+        "phone": "(336) 314-3891",
+        "district": "8",
+        "website": "",
+        "twitter": "",
+        "facebook": ""
+      },
+    }
+  }
+}
